@@ -1,0 +1,26 @@
+{
+  "name": "gatewatch-rbac-bench-mark",
+  "version": "1.0.0",
+  "description": "benchmarking performance and memory usage of gatewatch library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARAldhafeeri/gatewatch-rbac-bench-mark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ARAldhafeeri/gatewatch-rbac-bench-mark/issues"
+  },
+  "homepage": "https://github.com/ARAldhafeeri/gatewatch-rbac-bench-mark#readme",
+  "dependencies": {
+    "gatewatch": "^1.9.2",
+    "perf_hooks": "^0.0.1",
+    "pretty-bytes": "^7.0.0"
+  }
+}
